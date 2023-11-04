@@ -6,9 +6,9 @@
 - HTML, 
 - JSON Server
 
-![Project Image 1](/images/project-image-1.jpg)
-![Project Image 2](/images/project-image-2.jpg)
-![Project Image 3](/images/project-image-3.jpg)
-![Project Image 4](/images/project-image-4.jpg)
-![Project Image 5](/images/project-image-5.jpg)
-![Project Image 6](/images/project-image-6.jpg)
+![Project Image 1](/images/image1.jpg)
+![Project Image 2](/images/image2.jpg)
+![Project Image 3](/images/image3.jpg)
+![Project Image 4](/images/image4.jpg)
+![Project Image 5](/images/image5.jpg)
+![Project Image 6](/images/image6.jpg)
